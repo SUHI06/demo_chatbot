@@ -56,9 +56,9 @@ Your responsibilities:
 # 5. Start Assistant
 # ==========================================
 
-print("=" * 60)
+print("=" * 100)
 print("                 AI ASSISTANT")
-print("=" * 60)
+print("=" * 100)
 
 print("Type 'exit' to stop.\n")
 
